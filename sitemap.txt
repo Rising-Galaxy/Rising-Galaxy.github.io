@@ -1,3 +1,5 @@
 https://rising-galaxy.github.io/2023/03/09/My-First-Blog/
+https://rising-galaxy.github.io/tags/index.html
+https://rising-galaxy.github.io/about/index.html
 https://rising-galaxy.github.io/2023/03/09/hello-world/
 https://rising-galaxy.github.io/
